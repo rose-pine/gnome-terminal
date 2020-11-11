@@ -1,0 +1,76 @@
+[/]
+default='b1dcc9dd-5262-4d8d-a863-c897e6d979b9'
+list=['b1dcc9dd-5262-4d8d-a863-c897e6d979b9']
+
+[:2c86a18c-5c13-42a8-9b24-7fe6f81c985c]
+audible-bell=false
+background-color='#1F2430'
+bold-color='#77A8D9'
+bold-color-same-as-fg=false
+bold-is-bright=false
+cursor-background-color='#BFBAB0'
+cursor-blink-mode='off'
+cursor-colors-set=true
+cursor-foreground-color='#FF3333'
+custom-command='zsh'
+font='JetBrains Mono 12'
+foreground-color='#CBCCC6'
+highlight-background-color='#BFBAB0'
+highlight-colors-set=true
+highlight-foreground-color='#1F2430'
+login-shell=true
+nord-gnome-terminal-version='0.1.0'
+palette=['#1F2430', '#FF3333', '#A6CC70', '#FFD580', '#77A8D9', '#B48EAD', '#95E6CB', '#CBCCC6', '#BFBAB0', '#FF3333', '#BAE67E', '#FFE6B3', '#73D0FF', '#D4BFFF', '#5CCFE6', '#FFFFFF']
+scrollback-unlimited=true
+scrollbar-policy='never'
+use-custom-command=true
+use-system-font=false
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+use-transparent-background=false
+visible-name='Regolith'
+
+[:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+background-color='rgb(31,29,41)'
+cursor-colors-set=false
+custom-command='zsh'
+font='FiraCode Nerd Font 13'
+foreground-color='rgb(223,221,244)'
+login-shell=true
+palette=['rgb(64,60,88)', 'rgb(234,111,145)', 'rgb(155,206,215)', 'rgb(241,202,147)', 'rgb(52,115,142)', 'rgb(195,165,230)', 'rgb(234,187,185)', 'rgb(250,235,215)', 'rgb(111,110,133)', 'rgb(234,111,145)', 'rgb(155,206,215)', 'rgb(241,202,147)', 'rgb(52,115,142)', 'rgb(195,165,230)', 'rgb(234,187,185)', 'rgb(255,255,255)']
+scrollback-unlimited=true
+scrollbar-policy='never'
+use-custom-command=true
+use-system-font=false
+use-theme-colors=false
+visible-name='Rosé Pine'
+
+[:b7b4e57c-fbb0-4e27-8a9b-253b9bf383f0]
+audible-bell=false
+background-color='#1F2430'
+bold-color='#77A8D9'
+bold-color-same-as-fg=false
+bold-is-bright=false
+cursor-background-color='#BFBAB0'
+cursor-blink-mode='off'
+cursor-colors-set=true
+cursor-foreground-color='#FF3333'
+custom-command='zsh'
+font='JetBrains Mono 12'
+foreground-color='#CBCCC6'
+highlight-background-color='#BFBAB0'
+highlight-colors-set=true
+highlight-foreground-color='#1F2430'
+login-shell=true
+nord-gnome-terminal-version='0.1.0'
+palette=['#1F2430', '#FF3333', '#A6CC70', '#FFD580', '#77A8D9', '#B48EAD', '#95E6CB', '#CBCCC6', '#BFBAB0', '#FF3333', '#BAE67E', '#FFE6B3', '#73D0FF', '#D4BFFF', '#5CCFE6', '#FFFFFF']
+scrollback-unlimited=true
+scrollbar-policy='never'
+use-custom-command=true
+use-system-font=false
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+use-transparent-background=false
+visible-name='Regolith'
