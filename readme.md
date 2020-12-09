@@ -21,3 +21,7 @@ dconf load /org/gnome/terminal/legacy/profiles:/ < rosepine.dconf
 Fetch featured below is [NerdFetch](https://github.com/thatonecalculator/nerdfetch)
 
 ![Gnome Terminal with Rosé Pine](https://i.imgur.com/R656hHS.png)
+
+## Thanks to 
+
+- [ThatOneCalculator](https://github.com/thatonecalculator)
