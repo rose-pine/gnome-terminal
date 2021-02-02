@@ -14,12 +14,12 @@
 ## Usage
 
 
-Download `rosepine.dconf` and run 
+1. Download `rosepine.dconf` and run 
 ```sh
 dconf load /org/gnome/terminal/legacy/profiles:/ < rosepine.dconf
 ```
 
-## Screenshots
+## Gallery
 
 Fetch featured below is [NerdFetch](https://github.com/thatonecalculator/nerdfetch)
 
