@@ -1,0 +1,146 @@
+[/]
+default='b5bd2ef3-960f-47bb-b163-2db27e9dfa5d'
+list=['b1dcc9dd-5262-4d8d-a863-c897e6d979b9', 'b5bd2ef3-960f-47bb-b163-2db27e9dfa5d']
+
+[:2c86a18c-5c13-42a8-9b24-7fe6f81c985c]
+audible-bell=false
+background-color='#1F2430'
+bold-color='#77A8D9'
+bold-color-same-as-fg=false
+bold-is-bright=false
+cursor-background-color='#BFBAB0'
+cursor-blink-mode='off'
+cursor-colors-set=true
+cursor-foreground-color='#FF3333'
+custom-command='zsh'
+font='JetBrains Mono 12'
+foreground-color='#CBCCC6'
+highlight-background-color='#BFBAB0'
+highlight-colors-set=true
+highlight-foreground-color='#1F2430'
+login-shell=true
+nord-gnome-terminal-version='0.1.0'
+palette=['#1F2430', '#FF3333', '#A6CC70', '#FFD580', '#77A8D9', '#B48EAD', '#95E6CB', '#CBCCC6', '#BFBAB0', '#FF3333', '#BAE67E', '#FFE6B3', '#73D0FF', '#D4BFFF', '#5CCFE6', '#FFFFFF']
+scrollback-unlimited=true
+scrollbar-policy='never'
+use-custom-command=true
+use-system-font=false
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+use-transparent-background=false
+visible-name='Regolith'
+
+[:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+background-color='rgb(31,29,41)'
+background-transparency-percent=12
+bold-color='#6E46A4'
+bold-color-same-as-fg=false
+cursor-colors-set=false
+custom-command='zsh'
+exit-action='close'
+font='FiraCode Nerd Font 13'
+foreground-color='rgb(223,221,244)'
+login-shell=true
+palette=['rgb(64,60,88)', 'rgb(234,111,145)', 'rgb(155,206,215)', 'rgb(241,202,147)', 'rgb(52,115,142)', 'rgb(195,165,230)', 'rgb(234,187,185)', 'rgb(250,235,215)', 'rgb(111,110,133)', 'rgb(234,111,145)', 'rgb(155,206,215)', 'rgb(241,202,147)', 'rgb(52,115,142)', 'rgb(195,165,230)', 'rgb(234,187,185)', 'rgb(255,255,255)']
+scrollback-unlimited=true
+scrollbar-policy='never'
+use-custom-command=true
+use-system-font=false
+use-theme-colors=false
+use-theme-transparency=false
+use-transparent-background=true
+visible-name='Rosé Pine'
+
+[:b5bd2ef3-960f-47bb-b163-2db27e9dfa5d]
+background-color='rgb(255,250,243)'
+background-transparency-percent=6
+bold-color='rgb(144,122,169)'
+bold-color-same-as-fg=false
+bold-is-bright=true
+cursor-colors-set=false
+cursor-shape='block'
+custom-command='bash'
+exit-action='close'
+font='JetBrainsMono Nerd Font Mono 11'
+foreground-color='rgb(87,82,121)'
+login-shell=true
+palette=['rgb(64,60,88)', 'rgb(180,99,122)', 'rgb(40,105,131)', 'rgb(234,157,52)', 'rgb(52,115,142)', 'rgb(144,122,169)', 'rgb(180,99,122)', 'rgb(250,235,215)', 'rgb(121,117,147)', 'rgb(215,130,126)', 'rgb(86,148,159)', 'rgb(241,202,147)', 'rgb(86,148,159)', 'rgb(195,165,230)', 'rgb(215,130,126)', 'rgb(255,250,243)']
+scroll-on-output=true
+scrollback-unlimited=true
+scrollbar-policy='never'
+use-custom-command=false
+use-system-font=false
+use-theme-colors=true
+use-theme-transparency=false
+use-transparent-background=true
+visible-name='Rosé Pine Dawn'
+
+[:b7b4e57c-fbb0-4e27-8a9b-253b9bf383f0]
+audible-bell=false
+background-color='#1F2430'
+bold-color='#77A8D9'
+bold-color-same-as-fg=false
+bold-is-bright=false
+cursor-background-color='#BFBAB0'
+cursor-blink-mode='off'
+cursor-colors-set=true
+cursor-foreground-color='#FF3333'
+custom-command='zsh'
+font='JetBrains Mono 12'
+foreground-color='#CBCCC6'
+highlight-background-color='#BFBAB0'
+highlight-colors-set=true
+highlight-foreground-color='#1F2430'
+login-shell=true
+nord-gnome-terminal-version='0.1.0'
+palette=['#1F2430', '#FF3333', '#A6CC70', '#FFD580', '#77A8D9', '#B48EAD', '#95E6CB', '#CBCCC6', '#BFBAB0', '#FF3333', '#BAE67E', '#FFE6B3', '#73D0FF', '#D4BFFF', '#5CCFE6', '#FFFFFF']
+scrollback-unlimited=true
+scrollbar-policy='never'
+use-custom-command=true
+use-system-font=false
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+use-transparent-background=false
+visible-name='Regolith'
+
+[:cfd5295f-8f68-4df4-88c5-6563006c2ceb]
+background-color='#2E3440'
+background-transparency-percent=12
+bold-color='#D8DEE9'
+bold-color-same-as-fg=true
+cursor-background-color='rgb(216,222,233)'
+cursor-colors-set=true
+cursor-foreground-color='rgb(59,66,82)'
+default-size-columns=65
+default-size-rows=30
+font='Hack NF 12'
+foreground-color='#D8DEE9'
+highlight-background-color='rgb(136,192,208)'
+highlight-colors-set=true
+highlight-foreground-color='rgb(46,52,64)'
+nord-gnome-terminal-version='0.1.0'
+palette=['#3B4252', '#BF616A', '#A3BE8C', '#EBCB8B', '#81A1C1', '#B48EAD', '#88C0D0', '#E5E9F0', '#4C566A', '#BF616A', '#A3BE8C', '#EBCB8B', '#81A1C1', '#B48EAD', '#8FBCBB', '#ECEFF4']
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+use-transparent-background=true
+visible-name='Nord'
+
+[:d653300b-0bfe-4105-8180-56fef2a23a89]
+background-color='#282A36'
+background-transparency-percent=16
+bold-color='#6E46A4'
+bold-color-same-as-fg=false
+bold-is-bright=true
+cell-height-scale=1.0
+font='Hack Nerd Font 12'
+foreground-color='#F8F8F2'
+palette=['#262626', '#E356A7', '#42E66C', '#E4F34A', '#9B6BDF', '#E64747', '#75D7EC', '#EFA554', '#7A7A7A', '#FF79C6', '#50FA7B', '#F1FA8C', '#BD93F9', '#FF5555', '#8BE9FD', '#FFB86C']
+scroll-on-output=true
+scrollbar-policy='never'
+use-theme-colors=false
+use-theme-transparency=false
+use-transparent-background=true
+visible-name='Dracula'

@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for GNOME Terminal</h2>
+    <h2 align="center">Rosé Pine Dawn for GNOME Terminal</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -14,17 +14,18 @@
 ## Usage
 
 
-1. Download `rosepine.dconf` and run 
+1. Download `rosepine-dawn.dconf` and run 
 ```sh
-dconf load /org/gnome/terminal/legacy/profiles:/ < rosepine.dconf
+dconf load /org/gnome/terminal/legacy/profiles:/ < rosepine-dawn.dconf
 ```
 
 ## Gallery
 
-Fetch featured below is [NerdFetch](https://github.com/thatonecalculator/nerdfetch)
+Fetch featured below is [Neofetch](https://github.com/dylanaraps/neofetch)
 
-![Gnome Terminal with Rosé Pine](https://i.imgur.com/R656hHS.png)
+![Gnome Terminal with Rosé Pine Dawn](https://imgur.com/a/8ZPtO7j)
 
 ## Thanks to 
 
 - [ThatOneCalculator](https://github.com/thatonecalculator)
+- [Diorcula](https://github.com/diorcula)
