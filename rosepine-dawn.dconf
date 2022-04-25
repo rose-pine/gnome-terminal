@@ -1,0 +1,27 @@
+[/]
+default='b5bd2ef3-960f-47bb-b163-2db27e9dfa5d'
+list=['b5bd2ef3-960f-47bb-b163-2db27e9dfa5d']
+
+[:b5bd2ef3-960f-47bb-b163-2db27e9dfa5d]
+background-color='rgb(255,250,243)'
+background-transparency-percent=6
+bold-color='rgb(144,122,169)'
+bold-color-same-as-fg=false
+bold-is-bright=true
+cursor-colors-set=false
+cursor-shape='block'
+custom-command='bash'
+exit-action='close'
+font='JetBrainsMono Nerd Font Mono 11'
+foreground-color='rgb(87,82,121)'
+login-shell=true
+palette=['rgb(64,60,88)', 'rgb(180,99,122)', 'rgb(40,105,131)', 'rgb(234,157,52)', 'rgb(52,115,142)', 'rgb(144,122,169)', 'rgb(180,99,122)', 'rgb(250,235,215)', 'rgb(121,117,147)', 'rgb(215,130,126)', 'rgb(86,148,159)', 'rgb(241,202,147)', 'rgb(86,148,159)', 'rgb(195,165,230)', 'rgb(215,130,126)', 'rgb(255,250,243)']
+scroll-on-output=true
+scrollback-unlimited=true
+scrollbar-policy='never'
+use-custom-command=false
+use-system-font=false
+use-theme-colors=false
+use-theme-transparency=false
+use-transparent-background=true
+visible-name='Rosé Pine Dawn'
