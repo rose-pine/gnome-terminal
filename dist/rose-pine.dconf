@@ -1,0 +1,15 @@
+[profiles:/:ID]
+visible-name='Rosé Pine'
+
+foreground-color='rgb(224,222,244)'
+background-color='rgb(25,23,36)'
+cursor-foreground-color='rgb(224,222,244)'
+cursor-background-color='rgb(82,79,103)'
+highlight-foreground-color='rgb(224,222,244)'
+highlight-background-color='rgb(64,61,82)'
+palette=['rgb(38,35,58)', 'rgb(235,111,146)', 'rgb(49,116,143)', 'rgb(246,193,119)', 'rgb(156,207,216)', 'rgb(196,167,231)', 'rgb(235,188,186)', 'rgb(224,222,244)', 'rgb(110,106,134)', 'rgb(235,111,146)', 'rgb(49,116,143)', 'rgb(246,193,119)', 'rgb(156,207,216)', 'rgb(196,167,231)', 'rgb(235,188,186)', 'rgb(224,222,244)']
+
+use-system-font=true
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
