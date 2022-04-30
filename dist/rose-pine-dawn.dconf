@@ -1,0 +1,15 @@
+[profiles:/:ID]
+visible-name='Rosé Pine Dawn'
+
+foreground-color='rgb(87,82,121)'
+background-color='rgb(250,244,237)'
+cursor-foreground-color='rgb(87,82,121)'
+cursor-background-color='rgb(206,202,205)'
+highlight-foreground-color='rgb(87,82,121)'
+highlight-background-color='rgb(223,218,217)'
+palette=['rgb(242,233,222)', 'rgb(180,99,122)', 'rgb(40,105,131)', 'rgb(234,157,52)', 'rgb(86,148,159)', 'rgb(144,122,169)', 'rgb(215,130,126)', 'rgb(87,82,121)', 'rgb(152,147,165)', 'rgb(180,99,122)', 'rgb(40,105,131)', 'rgb(234,157,52)', 'rgb(86,148,159)', 'rgb(144,122,169)', 'rgb(215,130,126)', 'rgb(87,82,121)']
+
+use-system-font=true
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false

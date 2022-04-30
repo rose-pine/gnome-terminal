@@ -1,0 +1,15 @@
+[profiles:/:ID]
+visible-name='$name'
+
+foreground-color='$text'
+background-color='$base'
+cursor-foreground-color='$text'
+cursor-background-color='$highlightHigh'
+highlight-foreground-color='$text'
+highlight-background-color='$highlightMed'
+palette=['$overlay', '$love', '$pine', '$gold', '$foam', '$iris', '$rose', '$text', '$muted', '$love', '$pine', '$gold', '$foam', '$iris', '$rose', '$text']
+
+use-system-font=true
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
