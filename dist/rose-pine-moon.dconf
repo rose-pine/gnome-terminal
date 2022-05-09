@@ -1,6 +1,9 @@
-[profiles:/:ID]
-visible-name='Rosé Pine Moon'
+[/]
+default='b5bd2ef3-960f-47bb-b163-2db27e9dfa5d'
+list=['b5bd2ef3-960f-47bb-b163-2db27e9dfa5d']
 
+[:b5bd2ef3-960f-47bb-b163-2db27e9dfa5d]
+visible-name='Rosé Pine Moon'
 foreground-color='rgb(224,222,244)'
 background-color='rgb(35,33,54)'
 cursor-foreground-color='rgb(224,222,244)'
