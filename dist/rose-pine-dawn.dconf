@@ -1,6 +1,9 @@
-[profiles:/:ID]
-visible-name='Rosé Pine Dawn'
+[/]
+default='1d6292b9-4a31-4220-91b5-446cf599d136'
+list=['1d6292b9-4a31-4220-91b5-446cf599d136']
 
+[:1d6292b9-4a31-4220-91b5-446cf599d136]
+visible-name='Rosé Pine Dawn'
 foreground-color='rgb(87,82,121)'
 background-color='rgb(250,244,237)'
 cursor-foreground-color='rgb(87,82,121)'
