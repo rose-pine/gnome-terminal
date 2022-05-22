@@ -1,6 +1,9 @@
-[profiles:/:ID]
-visible-name='$name'
+[/]
+default='$(20973b0f-a7cb-4fdd-bdfc-53cff02014c8|b5bd2ef3-960f-47bb-b163-2db27e9dfa5d|1d6292b9-4a31-4220-91b5-446cf599d136)'
+list=['$(20973b0f-a7cb-4fdd-bdfc-53cff02014c8|b5bd2ef3-960f-47bb-b163-2db27e9dfa5d|1d6292b9-4a31-4220-91b5-446cf599d136)']
 
+[:$(20973b0f-a7cb-4fdd-bdfc-53cff02014c8|b5bd2ef3-960f-47bb-b163-2db27e9dfa5d|1d6292b9-4a31-4220-91b5-446cf599d136)]
+visible-name='$name'
 foreground-color='$text'
 background-color='$base'
 cursor-foreground-color='$text'
