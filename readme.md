@@ -13,6 +13,8 @@
 
 ## Usage
 
+> **Warning**: This will overwrite all previous profiles
+
 ```sh
 # Load rose-pine.dconf or other variant
 dconf load /org/gnome/terminal/legacy/profiles:/ < rose-pine.dconf
